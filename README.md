@@ -1,4 +1,4 @@
-# Sistema de cadastro de vagas
+# Sistema de cadastro de vagas em Node Js
 Sistema de cadastro e busca de vagas para programadores em Node.js ([Matheus Battisti](https://www.udemy.com/user/matheus-battisti/ "Matheus Battisti") - Udemy)
 
 ## Imagem final do projeto
