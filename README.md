@@ -4,7 +4,7 @@ Sistema de cadastro e busca de vagas para programadores em Node.js ([Matheus Bat
 ## Imagem final do projeto
 ![](https://i.imgur.com/Qhz0Sdz.png)
 
-## Recursos Utimizados
+## Recursos Utilizados
 - Node.js
 - Express
 - Postman
